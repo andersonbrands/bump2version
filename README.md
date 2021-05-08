@@ -6,7 +6,14 @@
 [![Travis](https://img.shields.io/travis/c4urself/bump2version/master.svg?logo=travis)](https://travis-ci.org/c4urself/bump2version)
 [![AppVeyor](https://img.shields.io/appveyor/ci/c4urself/bump2version.svg?logo=appveyor)](https://ci.appveyor.com/project/c4urself/bump2version)
 
-## NOTE
+## This is a temporary branch including [this PR](https://github.com/c4urself/bump2version/pull/160)
+
+Use with pip: ```pip install git+https://github.com/andersonbrands/bump2version.git@fix-160```
+
+Use with pipx: ```pipx install git+https://github.com/andersonbrands/bump2version.git@fix-160```
+
+
+## NOTE 
 
 This is a maintained fork of the excellent [bumpversion project](https://github.com/peritus/bumpversion).
 
